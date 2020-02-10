@@ -1,5 +1,0 @@
-autotest information  ---master
-branchlocal  --branchlocal
-这是我合并后的内容  --master
-version1
-version2
