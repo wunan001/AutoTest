@@ -7,9 +7,11 @@
 
     <groupId>com.learn.code</groupId>
     <artifactId>Learn</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.1</version>
 
     <modules>
-        <module>Learn</module>
+        <module>Lession1</module>
+        <module>HttpClientLearn</module>
     </modules>
 </project>
